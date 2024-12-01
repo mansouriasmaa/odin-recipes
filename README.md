@@ -2,4 +2,4 @@
 
 ## Project Overview
 
-This is a simple project created as part of the Odin Project to test my knowledge of HTML.
+This project is part of The Odin Project and aims to demonstrate my ability to create a simple, styled recipe website using HTML and CSS. The project contains various recipe pages with ingredients, steps, and descriptions for each recipe.
